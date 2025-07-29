@@ -128,9 +128,9 @@ This project leverages TensorFlow/Keras to implement a predictive AI for the ene
 
 ## 🧑‍💻 Author
 
-**Ayaan**
+**Ayaan Shaikh**
 * [GitHub Profile](https://github.com/ayaanshaikh2563)
-* [LinkedIn Profile](https://www.linkedin.com/in/your_linkedin_username) ---
+* [LinkedIn Profile]([https://www.linkedin.com/in/your_linkedin_username](https://www.linkedin.com/in/ayaan-shaikh25/) ---
 
 ## 📄 License
 

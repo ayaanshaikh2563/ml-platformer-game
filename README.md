@@ -4,14 +4,14 @@
 ![CATCH ME IF YOU CAN - Gameplay](gameplay_screenshot.png)
 ![CATCH ME IF YOU CAN - Game Over](game_over_screenshot.png)
 
-A 2D platformer game developed using **Pygame**, featuring an intelligent enemy AI (**Tanisha**) driven by a **Long Short-Term Memory (LSTM) neural network**. This project demonstrates real-time machine learning integration, where the AI dynamically learns and predicts player movements to deliver a challenging and engaging chase experience.
+A 2D platformer game developed using **Pygame**, featuring an intelligent enemy AI (**Hunter**) driven by a **Long Short-Term Memory (LSTM) neural network**. This project demonstrates real-time machine learning integration, where the AI dynamically learns and predicts player movements to deliver a challenging and engaging chase experience.
 
 ---
 
 ## ✨ Key Features
 
-* **Responsive Player Controls:** Smooth and intuitive movement (left, right, jump) for the player character (Ayaan).
-* **Intelligent AI Opponent (Tanisha):** An LSTM-based AI that predicts player trajectories, enabling dynamic and adaptive pursuit.
+* **Responsive Player Controls:** Smooth and intuitive movement (left, right, jump) for the player character (Windy).
+* **Intelligent AI Opponent (Hunter):** An LSTM-based AI that predicts player trajectories, enabling dynamic and adaptive pursuit.
 * **Dynamic Graphics & Assets:** Custom character sprites for both player and enemy, alongside a thematic background image, bringing the game world to life.
 * **Polished User Interface:** Features a custom, stylized font, a clear title screen, and a concise game-over screen with immediate score feedback.
 * **Survival Scoring System:** A time-based score that challenges players to evade the AI for as long as possible.
@@ -130,7 +130,7 @@ This project leverages TensorFlow/Keras to implement a predictive AI for the ene
 
 **Ayaan Shaikh**
 * [GitHub Profile](https://github.com/ayaanshaikh2563)
-* [LinkedIn Profile]([https://www.linkedin.com/in/your_linkedin_username](https://www.linkedin.com/in/ayaan-shaikh25/) ---
+* [LinkedIn Profile](https://www.linkedin.com/in/ayaan-shaikh25/) ---
 
 ## 📄 License
 
